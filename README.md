@@ -22,13 +22,16 @@ The process involves generating 500,000 independent future price paths. The fina
 ## Development and Learning Process
 The project was highly educational in several areas:
 
-1. Computational Challenges
+1. Computational Challenges:
+
 A primary difficulty definitely came in optimizing the code. I had to learn and implement NumPy library to execute the 500,000-path simulation using vectorized operations. This was absolutely necessary as Python's native methods were simply too slow for larger scaled financial modeling.
 
-2. Theoretical Translation
+2. Theoretical Translation:
+
 Since I had no formal education in these topics, a significant chunk of time was spent in both understanding and accurately translating complex concepts into code. Segmented code which was both effective and conscice was incredibly difficult for me, it seemed that for every solution i came up with, there were 10 better, and it took me a long time to understand and implement these better solutions as well. As expected, this was where I faced the greatest difficulties.
 
-3. Tool Utilization and Transparency
+3. Tool Utilization and Transparency:
+
 This project was aided by AI as a coding tool. Utilising AI as an helper allowed me to focus effort on the mathematical, code-related and financial aspects of the project, while leveraging AI for more trivial tasks like matplotlib visualisation styling and debugging.
 
 ## Future Development
